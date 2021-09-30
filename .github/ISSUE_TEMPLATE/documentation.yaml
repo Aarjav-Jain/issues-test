@@ -25,6 +25,7 @@ body:
           required: true
   - type: checkboxes
     id: read-code-of-conduct
+  - type: markdown
     attributes:
       label: "🏢 Have you read the [Code of Conduct](https://github.com/appwrite/appwrite/blob/master/CODE_OF_CONDUCT.md)?"
       options:
